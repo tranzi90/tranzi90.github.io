@@ -9,7 +9,7 @@
 title: Denis Levchenko
 email: tranzi90@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Сайт веб-разработчика Дениса Левченко. Денчик любит Алечку! <3
+  Сайт веб-разработчика Дениса Левченко.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://denis-developer.com/" # the base hostname & protocol for your site
 twitter_username: jekyllrb
